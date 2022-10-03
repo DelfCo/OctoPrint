@@ -18,7 +18,7 @@ simple "send-as-is" scripts but making use of a full blown templating language i
 this end, OctoPrint injects some variables into the :ref:`template rendering context <sec-features-gcode_scripts-context>`
 as described below.
 
-You can find the docs on the Jinja templating engine as used in OctoPrint `here <https://jinja.palletsprojects.com/en/2.11.x/templates/>`_.
+You can find the docs on the Jinja templating engine as used in OctoPrint `here <https://jinja.palletsprojects.com/en/3.0.x/templates/>`_.
 
 .. _sec-features-gcode_scripts-predefined:
 
@@ -261,6 +261,6 @@ to the persisted pause position on resume, making sure to also reset the extrude
 
 .. seealso::
 
-   `Jinja Template Designer Documentation <https://jinja.palletsprojects.com/en/2.11.x/templates/>`_
+   `Jinja Template Designer Documentation <https://jinja.palletsprojects.com/en/3.0.x/templates/>`_
       Jinja's Template Designer Documentation describes the syntax and semantics of the template language used
       also by OctoPrint's GCODE scripts.

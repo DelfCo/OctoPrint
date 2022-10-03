@@ -39,11 +39,11 @@
   * [appdirs](http://github.com/ActiveState/appdirs): MIT
   * [Awesome-Slugify](https://pypi.python.org/pypi/awesome-slugify): GPLv3
   * [chainmap](https://bitbucket.org/jeunice/chainmap): Python
-  * [Click](http://click.pocoo.org/): BSD
+  * [Click](https://click.palletsprojects.com/en/8.1.x/): BSD
   * [emoji](https://github.com/carpedm20/emoji/): BSD
   * [feedparser](https://github.com/kurtmckee/feedparser): BSD
   * [filetype](https://h2non.github.io/filetype.py/): MIT
-  * [Flask](http://flask.pocoo.org/): BSD
+  * [Flask](https://flask.palletsprojects.com/en/2.2.x/): BSD
   * [Flask-Assets](http://github.com/miracle2k/flask-assets): BSD
   * [Flask-Babel](http://github.com/mitsuhiko/flask-babel): BSD
   * [Flask-Login](https://github.com/maxcountryman/flask-login): MIT

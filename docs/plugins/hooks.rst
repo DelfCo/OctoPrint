@@ -447,7 +447,7 @@ octoprint.cli.commands
       OctoPrint server context, so there is absolutely no way to access a printer connection, the event bus or
       anything else like that. The only things available are the settings and the plugin manager.
 
-   :return: A list of `Click commands or groups <http://click.pocoo.org/5/commands/>`_ to provide on
+   :return: A list of `Click commands or groups <https://click.palletsprojects.com/en/8.1.x/commands/>`_ to provide on
             OctoPrint's CLI.
    :rtype: list
 

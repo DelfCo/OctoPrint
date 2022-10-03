@@ -8,7 +8,7 @@ Custom Controls
 OctoPrint allows you to add custom controls to the "Control" tab of its interface. Control types reach from simple
 buttons which trigger sending of one or more lines of GCODE to the printer over more complex controls allowing
 parameterization of these commands with values entered by the user to full blown GCODE script templates backed by
-`Jinja2 <http://jinja.pocoo.org/>`_.
+`Jinja2 <https://jinja.palletsprojects.com/>`_.
 
 Custom controls are configured within :ref:`config.yaml <sec-configuration-config_yaml>` [#f1]_  in a ``controls`` section which
 basically represents a hierarchical structure of all configured custom controls of various types.

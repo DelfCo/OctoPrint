@@ -11,7 +11,7 @@ click.disable_unicode_literals_warning = True
 
 class OctoPrintDevelCommands(click.MultiCommand):
     """
-    Custom `click.MultiCommand <http://click.pocoo.org/5/api/#click.MultiCommand>`_
+    Custom `click.MultiCommand <https://click.palletsprojects.com/en/8.1.x/api/#click.MultiCommand>`_
     implementation that provides commands relevant for (plugin) development
     based on availability of development dependencies.
     """

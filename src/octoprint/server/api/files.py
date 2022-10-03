@@ -1313,7 +1313,7 @@ class WerkzeugFileWrapper(octoprint.filemanager.util.AbstractFileWrapper):
 
     .. seealso::
 
-       `werkzeug.datastructures.FileStorage <http://werkzeug.pocoo.org/docs/0.10/datastructures/#werkzeug.datastructures.FileStorage>`_
+       `werkzeug.datastructures.FileStorage <https://werkzeug.palletsprojects.com/en/2.2.x/datastructures/#werkzeug.datastructures.FileStorage>`_
             The documentation of Werkzeug's ``FileStorage`` class.
     """
 
